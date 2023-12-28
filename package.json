@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "chat realtime",
+  "main": "y",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CabralNahuel/chat-BDrealtime.git"
+  },
+  "author": "Nahuel Cabral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CabralNahuel/chat-BDrealtime/issues"
+  },
+  "homepage": "https://github.com/CabralNahuel/chat-BDrealtime#readme"
+}
